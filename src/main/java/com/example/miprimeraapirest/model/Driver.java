@@ -23,5 +23,4 @@ public class Driver {
     private LocalDate dob;
     private String nationality;
     private String url;
-
 }
